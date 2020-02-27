@@ -1,0 +1,21 @@
+{
+    "name": "UnityEngine.Advertisements.Tests",
+    "references": [
+        "UnityEngine.Advertisements",
+        "UnityEngine.Monetization"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Moq.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ]
+}
