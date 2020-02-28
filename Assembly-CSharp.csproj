@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\Camera\CameraVignette.cs" />
     <Compile Include="Assets\Scripts\Level\EndDestructor.cs" />
     <Compile Include="Assets\Scripts\Level\LevelGenerator.cs" />
+    <Compile Include="Assets\Scripts\Level\Ring.cs" />
     <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
     <Compile Include="Assets\Scripts\Managers\SoundManager.cs" />
     <Compile Include="Assets\Scripts\Managers\TimeManager.cs" />

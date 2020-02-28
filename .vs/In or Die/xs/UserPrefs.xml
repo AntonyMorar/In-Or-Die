@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{81C775DE-E53A-5869-7312-A15151BEBD85}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player/DragAndShoot.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Managers/TimeManager.cs">
     <Files>
-      <File FileName="Assets/Scripts/Managers/GameManager.cs" Line="66" Column="52" />
-      <File FileName="Assets/Scripts/Managers/UIManager.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Player/DragAndShoot.cs" Line="13" Column="33" />
-      <File FileName="Assets/Scripts/Managers/TimeManager.cs" Line="64" Column="17" />
-      <File FileName="Assets/Scripts/UI/Score.cs" Line="18" Column="67" />
+      <File FileName="Assets/Scripts/Level/Ring.cs" Line="21" Column="23" />
+      <File FileName="Assets/Scripts/Managers/GameManager.cs" Line="69" Column="42" />
+      <File FileName="Assets/Scripts/Managers/TimeManager.cs" Line="78" Column="26" />
+      <File FileName="Assets/Scripts/UI/Score.cs" Line="29" Column="69" />
+      <File FileName="Assets/Scripts/Player/DragAndShoot.cs" Line="41" Column="66" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

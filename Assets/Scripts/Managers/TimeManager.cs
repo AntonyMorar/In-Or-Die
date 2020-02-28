@@ -24,8 +24,7 @@ public class TimeManager : MonoBehaviour
     }
     // End of thr Singleton
 
-    [Header("Player Params")]
-    const float playerMaxSlowTime = 5f;
+    public float playerMaxSlowTime { get; private set; }
     public float playerSlowTime { get; private set; }
     public bool isTimesUp { get; private set; }
 
@@ -35,6 +34,7 @@ public class TimeManager : MonoBehaviour
 
     private void Start()
     {
+        playerMaxSlowTime = 5f;
         playerSlowTime = playerMaxSlowTime;
     }
 
@@ -70,5 +70,11 @@ public class TimeManager : MonoBehaviour
     {
         playerSlowTime = playerMaxSlowTime;
         isTimesUp = false;
+    }
+
+    public void AddSlowTime(float _time)
+    {
+        playerSlowTime += _time;
+        playerSlowTime = Mathf.Clamp(playerSlowTime, 0f, playerMaxSlowTime);
     }
 }

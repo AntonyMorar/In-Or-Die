@@ -65,4 +65,16 @@ public class GameManager : MonoBehaviour
         gems = 0;
         TimeManager.instance.ResetPlayerTimeStatus();
     }
+
+    public int GetScore() { return score; }
+
+    public void addScore(int _score)
+    {
+        score += _score;
+    }
+
+    public void addGems(int _gems)
+    {
+        gems = _gems;
+    }
 }

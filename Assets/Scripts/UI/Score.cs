@@ -15,8 +15,17 @@ public class Score : MonoBehaviour
 
     private void Update()
     {
-        timeBarImage.fillAmount = timeManager.playerSlowTime / 5f;
+        SetTimeBar();
+        SetScoreText();
     }
 
+    private void SetTimeBar()
+    {
+        timeBarImage.fillAmount = timeManager.playerSlowTime / timeManager.playerMaxSlowTime;
+    }
 
+    private void SetScoreText()
+    {
+        scoreText.SetText(GameManager.instance.GetScore().ToString());
+    }
 }
