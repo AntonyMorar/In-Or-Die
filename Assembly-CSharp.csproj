@@ -68,7 +68,9 @@
     <Compile Include="Assets\Scripts\Level\EndDestructor.cs" />
     <Compile Include="Assets\Scripts\Level\LevelGenerator.cs" />
     <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Managers\SoundManager.cs" />
     <Compile Include="Assets\Scripts\Managers\TimeManager.cs" />
+    <Compile Include="Assets\Scripts\Managers\UIManager.cs" />
     <Compile Include="Assets\Scripts\Player\DragAndShoot.cs" />
     <Compile Include="Assets\Scripts\Player\DragLine.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerCollisions.cs" />
@@ -76,6 +78,7 @@
     <Compile Include="Assets\Scripts\Services\IService.cs" />
     <Compile Include="Assets\Scripts\Services\RewardedAdsButton.cs" />
     <Compile Include="Assets\Scripts\Services\ServiceManager.cs" />
+    <Compile Include="Assets\Scripts\UI\Score.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
@@ -97,8 +100,14 @@
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.Monetization">
+      <HintPath>/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Advertisements">
+      <HintPath>/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
@@ -126,12 +135,6 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.Monetization">
-      <HintPath>/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.Advertisements">
-      <HintPath>/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.3.0f6/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

@@ -27,12 +27,13 @@ public class PlayerCollisions : MonoBehaviour
 
     private void DestroyPlayer()
     {
-        StartCoroutine(RestartGame());
+        StartCoroutine(GameOver());
     }
 
-    private IEnumerator RestartGame()
+    private IEnumerator GameOver()
     {
-        yield return new WaitForSeconds(1);
-        GameManager.instance.RestartGame();
+        Debug.Log("Reaady to destroy");
+        yield return new WaitForSeconds(0.6f);
+        GameManager.instance.GameOver();
     }
 }

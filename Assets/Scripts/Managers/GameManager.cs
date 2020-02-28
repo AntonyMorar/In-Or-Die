@@ -29,34 +29,40 @@ public class GameManager : MonoBehaviour
 
     // End of thr Singleton
 
-    [Header("External Scripts")]
-    [SerializeField] private GameObject MainMenu;
+    [Header("Player")]
+    [SerializeField] private int score = 0;
+    [SerializeField] private int highScore;
+    [SerializeField] private int gems = 0;
+    [SerializeField] private int totalGems;
 
     [Header("Debug Settings")]
     [SerializeField] private bool debug;
 
-    public bool isGamePlaying { get; private set; }
-    public bool isGamePaused { get; private set; }
+    public bool isGamePlaying;
 
-    public void GamePlay(bool _play = true)
+    public void GamePlay()
     {
-        isGamePlaying = _play;
+        isGamePlaying = true;
     }
 
-    public void PauseGame(bool _pause = true)
+    public void GameOver()
     {
-        isGamePaused = _pause;
+        //TODO destroy player
+        isGamePlaying = false;
+        UIManager.instance.GoToMenu(1);
     }
 
     public void RestartGame()
     {
-        isGamePlaying = false;
-        isGamePaused = false;
+        UIManager.instance.GoToMenu(2);
+        RestartGameValues();
         SceneManager.LoadScene("Game");
     }
 
-    public void StartGame()
+    private void RestartGameValues()
     {
-        isGamePlaying = true;
+        score = 0;
+        gems = 0;
+        TimeManager.instance.ResetPlayerTimeStatus();
     }
 }
