@@ -24,17 +24,17 @@ public class TimeManager : MonoBehaviour
     }
     // End of thr Singleton
 
-    public float playerMaxSlowTime { get; private set; }
-    public float playerSlowTime { get; private set; }
-    public bool isTimesUp { get; private set; }
-
     [Header("Slow Down")]
     [SerializeField] private float slowDownFactor = 0.01f;
     [SerializeField] private bool isSlowMotion;
 
+    public float playerMaxSlowTime { get; private set; }
+    public float playerSlowTime { get; private set; }
+    public bool isTimesUp { get; private set; }
+
     private void Start()
     {
-        playerMaxSlowTime = 5f;
+        playerMaxSlowTime = 4.5f;
         playerSlowTime = playerMaxSlowTime;
     }
 

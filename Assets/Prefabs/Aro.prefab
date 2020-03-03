@@ -4781,5 +4781,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2807bf16abe314bec8d9ac85b818e7a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  secondsGived: 1
+  explotionPrefab: {fileID: 5055744436163308408, guid: 1f626abddf4214789b2ad8dc6005fa08,
+    type: 3}
+  secondsGived: 0.7
   scoreGived: 1

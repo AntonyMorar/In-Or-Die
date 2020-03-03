@@ -4,11 +4,13 @@ using UnityEngine;
 
 public class PlayerCollisions : MonoBehaviour
 {
+    [Header ("Player Prefabs")]
+    [SerializeField] private GameObject playerExplotionPrefab;
+
     private void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.CompareTag("Bard"))
         {
-            Debug.Log("Entra a colission");
             DestroyPlayer();
         }
     }
@@ -19,7 +21,6 @@ public class PlayerCollisions : MonoBehaviour
 
         if (other.gameObject.CompareTag("EndDestructor") || other.gameObject.CompareTag("Bard"))
         {
-            Debug.Log("Entra a triger");
             DestroyPlayer();
         }
     }
@@ -27,13 +28,17 @@ public class PlayerCollisions : MonoBehaviour
 
     private void DestroyPlayer()
     {
+        GameManager.instance.isPlayerDead = true;
+        gameObject.GetComponent<MeshRenderer>().enabled = false;
+        gameObject.GetComponent<SphereCollider>().enabled = false;
+        GameObject explotionClone = Instantiate(playerExplotionPrefab, transform.position, Quaternion.identity);
         StartCoroutine(GameOver());
     }
 
     private IEnumerator GameOver()
     {
-        Debug.Log("Reaady to destroy");
-        yield return new WaitForSeconds(0.6f);
+        yield return new WaitForSeconds(1.3f);
+        Destroy(gameObject);
         GameManager.instance.GameOver();
     }
 }

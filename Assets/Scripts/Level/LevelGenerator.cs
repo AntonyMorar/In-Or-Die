@@ -5,11 +5,31 @@ using UnityEngine;
 public class LevelGenerator : MonoBehaviour
 {
     public GameObject bardPrefab;
+    public GameObject ringPrefab;
     public Material[] redMaterials = new Material[2];
 
-    [SerializeField]
+    // Bard variables
     private float lastBardPosX = 21f;
     private bool nextIsDarkMaterial = true;
+
+    // Ring variables
+    private float ringDistanceInit = 16f;
+    private float ringDistance;
+
+    private void Start()
+    {
+        ringDistance = ringDistanceInit;
+    }
+
+    private void Update()
+    {
+        if (Camera.main.transform.position.x >= ringDistance)
+        {
+            AddNewRing();
+            ringDistance += ringDistanceInit;
+            Debug.Log("Ahora");
+        }
+    }
 
     public void AddNewBards()
     {
@@ -35,5 +55,10 @@ public class LevelGenerator : MonoBehaviour
 
         // Add Position
         lastBardPosX += 3;
+    }
+
+    public void AddNewRing()
+    {
+        Instantiate(ringPrefab, new Vector3(ringDistance + Random.Range(22f,27f), 0f,0f), Quaternion.Euler(0f, 90f, 0f));
     }
 }

@@ -34,11 +34,13 @@ public class GameManager : MonoBehaviour
     [SerializeField] private int highScore;
     [SerializeField] private int gems = 0;
     [SerializeField] private int totalGems;
+    public bool isPlayerDead;
+
+    public bool isGamePlaying;
 
     [Header("Debug Settings")]
     [SerializeField] private bool debug;
 
-    public bool isGamePlaying;
 
     public void GamePlay()
     {
@@ -47,7 +49,6 @@ public class GameManager : MonoBehaviour
 
     public void GameOver()
     {
-        //TODO destroy player
         isGamePlaying = false;
         UIManager.instance.GoToMenu(1);
     }
@@ -64,6 +65,7 @@ public class GameManager : MonoBehaviour
         score = 0;
         gems = 0;
         TimeManager.instance.ResetPlayerTimeStatus();
+        isPlayerDead = false;
     }
 
     public int GetScore() { return score; }

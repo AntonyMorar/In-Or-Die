@@ -6,9 +6,6 @@ using UnityEngine.UI;
 
 public class Score : MonoBehaviour
 {
-    [Header("Script Dependencies")]
-    [SerializeField] private TimeManager timeManager;
-
     [Header("UI Elements")]
     [SerializeField] private TextMeshProUGUI scoreText;
     [SerializeField] private Image timeBarImage;
@@ -21,7 +18,7 @@ public class Score : MonoBehaviour
 
     private void SetTimeBar()
     {
-        timeBarImage.fillAmount = timeManager.playerSlowTime / timeManager.playerMaxSlowTime;
+        timeBarImage.fillAmount = TimeManager.instance.playerSlowTime / TimeManager.instance.playerMaxSlowTime;
     }
 
     private void SetScoreText()

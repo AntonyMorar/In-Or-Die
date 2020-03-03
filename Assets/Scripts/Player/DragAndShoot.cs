@@ -29,7 +29,7 @@ public class DragAndShoot : MonoBehaviour
     private void Update()
     {
         // If time is running out
-        if (TimeManager.instance.isTimesUp)
+        if (TimeManager.instance.isTimesUp || GameManager.instance.isPlayerDead)
         {
             EndDrag(false);
             return;
