@@ -61,6 +61,8 @@ public class GameManager : MonoBehaviour
         UIManager.instance.GoToMenu(2);
         RestartGameValues();
         SceneManager.LoadScene("Game");
+        // Play the game background sound
+        SoundManager.instance.PlaySound("Background");
     }
 
     private void RestartGameValues()

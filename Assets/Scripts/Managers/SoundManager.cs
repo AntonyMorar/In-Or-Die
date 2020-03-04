@@ -6,9 +6,8 @@ public class Sound
     public string name;
     public AudioClip clip;
 
-    [Range(0, 1)]
-    public float volume = 0.7f;
-    public float pitch = 1f;
+    [Range(0, 1)] public float volume = 0.7f;
+    [SerializeField][Range(-3, 3)] private float pitch = 1f;
     public bool loop;
 
     private AudioSource source;
@@ -22,6 +21,7 @@ public class Sound
     public void Play()
     {
         source.volume = volume;
+        source.pitch = pitch;
         source.loop = loop;
         source.Play();
     }
@@ -29,6 +29,11 @@ public class Sound
     public void Stop()
     {
         source.Stop();
+    }
+
+    public void ChangePitch(float level)
+    {
+        source.pitch = level;
     }
 }
 
@@ -93,6 +98,20 @@ public class SoundManager : MonoBehaviour
             }
         }
 
+        //No sound with name
+        Debug.LogError("SoundManager: No sound with name " + _name);
+    }
+
+    public void ChangePitch(string _name, float level)
+    {
+        for (int i = 0; i < sounds.Length; i++)
+        {
+            if (sounds[i].name == _name)
+            {
+                sounds[i].ChangePitch(level);
+                return;
+            }
+        }
         //No sound with name
         Debug.LogError("SoundManager: No sound with name " + _name);
     }

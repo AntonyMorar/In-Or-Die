@@ -45,6 +45,9 @@ public class DragAndShoot : MonoBehaviour
             //Active camera Vignette
             cameraVignette.ActiveVignette();
 
+            // Decrease pitch in backgrund music
+            SoundManager.instance.ChangePitch("Background", 0.7f);
+
             //Mouse in wordl position 3d
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             RaycastHit hit;
@@ -101,6 +104,9 @@ public class DragAndShoot : MonoBehaviour
         TimeManager.instance.SlowMotion(false);
         //Deactive camera Vignette
         cameraVignette.DeactiveVignette();
+
+        // Increase pitch in backgrund music
+        SoundManager.instance.ChangePitch("Background", 1f);
 
         //Remove the DragLine
         dragLine.EndLine();

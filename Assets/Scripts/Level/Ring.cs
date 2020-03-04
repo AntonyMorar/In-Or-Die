@@ -14,20 +14,20 @@ public class Ring : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.CompareTag("Player"))
+        if (other.gameObject.CompareTag("Player") && !playerStep)
         {
-            if (!playerStep)
-            {
-                playerStep = true;
+            playerStep = true;
 
-                GameManager.instance.addScore(scoreGived);
-                TimeManager.instance.AddSlowTime(secondsGived);
+            GameManager.instance.addScore(scoreGived);
+            TimeManager.instance.AddSlowTime(secondsGived);
 
-                GameObject explotionClone = Instantiate(explotionPrefab, transform.position, Quaternion.identity);
-                explotionClone.transform.SetParent(transform);
+            GameObject explotionClone = Instantiate(explotionPrefab, transform.position, Quaternion.identity);
+            explotionClone.transform.SetParent(transform);
 
-                LeanTween.scale(gameObject, Vector3.zero, 0.25f).setDelay(0.2f).setOnComplete(DestroyMe);
-            }
+            // Play ring sound
+            SoundManager.instance.PlaySound("RingPass");
+
+            LeanTween.scale(gameObject, Vector3.zero, 0.25f).setDelay(0.2f).setOnComplete(DestroyMe);
         }
     }
 

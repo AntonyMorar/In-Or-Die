@@ -27,7 +27,6 @@ public class LevelGenerator : MonoBehaviour
         {
             AddNewRing();
             ringDistance += ringDistanceInit;
-            Debug.Log("Ahora");
         }
     }
 

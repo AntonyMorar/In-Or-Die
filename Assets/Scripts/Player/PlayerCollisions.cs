@@ -25,8 +25,6 @@ public class PlayerCollisions : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Entra a triger sdf");
-
         if (other.gameObject.CompareTag("EndDestructor") || other.gameObject.CompareTag("Bard"))
         {
             DestroyPlayer();
@@ -36,6 +34,8 @@ public class PlayerCollisions : MonoBehaviour
 
     private void DestroyPlayer()
     {
+        // Play player explotion sound
+        SoundManager.instance.PlaySound("PlayerExplotion");
         // Stop trail particles
         StopTrail();
         // Globarl bariable player dead true
