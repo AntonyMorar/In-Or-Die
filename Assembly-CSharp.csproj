@@ -83,7 +83,6 @@
     <Compile Include="Assets\Scripts\Player\DragAndShoot.cs" />
     <Compile Include="Assets\Scripts\Player\DragLine.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerCollisions.cs" />
-    <Compile Include="Assets\Scripts\Player\PlayerTrail.cs" />
     <Compile Include="Assets\Scripts\Services\AdService.cs" />
     <Compile Include="Assets\Scripts\Services\IService.cs" />
     <Compile Include="Assets\Scripts\Services\RewardedAdsButton.cs" />

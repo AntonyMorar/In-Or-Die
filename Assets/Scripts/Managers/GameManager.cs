@@ -41,10 +41,13 @@ public class GameManager : MonoBehaviour
     [Header("Debug Settings")]
     [SerializeField] private bool debug;
 
+    private GameObject player;
+
 
     public void GamePlay()
     {
         isGamePlaying = true;
+        GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerCollisions>().PlayTrail();
     }
 
     public void GameOver()

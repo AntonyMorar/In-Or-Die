@@ -122,6 +122,7 @@ public class DragAndShoot : MonoBehaviour
             //Add New force to the player
             force = new Vector2(Mathf.Clamp(startPoint.x - endPoint.x, minPower.x, maxPower.x), Mathf.Clamp(startPoint.y - endPoint.y, minPower.y, maxPower.y));
             rb.AddForce(force * power, ForceMode.Impulse);
+            transform.rotation = Quaternion.LookRotation(force);
         }
     }
 }
