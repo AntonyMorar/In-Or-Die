@@ -478,12 +478,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1785230130}
   m_PrefabAsset: {fileID: 0}
---- !u!198 &101669947 stripped
-ParticleSystem:
-  m_CorrespondingSourceObject: {fileID: 8303004913229502296, guid: 8284237a6792b4c3ca4ed0f042cedea6,
-    type: 3}
-  m_PrefabInstance: {fileID: 927257910}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &104714608
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2350,11 +2344,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1922844275058938088, guid: 8284237a6792b4c3ca4ed0f042cedea6,
-        type: 3}
-      propertyPath: trail
-      value: 
-      objectReference: {fileID: 101669947}
     - target: {fileID: 1922844275058938090, guid: 8284237a6792b4c3ca4ed0f042cedea6,
         type: 3}
       propertyPath: cameraVignette
@@ -2420,8 +2409,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 1814213059, guid: 8284237a6792b4c3ca4ed0f042cedea6, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8284237a6792b4c3ca4ed0f042cedea6, type: 3}
 --- !u!1 &938079006
 GameObject:
