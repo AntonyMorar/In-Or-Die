@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class PlayerCollisions : MonoBehaviour
 {
+    [Header("Scripts dependecies")]
+    [SerializeField] private GameObject gameOverMenuObj;
+
     [Header ("Player Prefabs")]
     [SerializeField] private GameObject playerExplotionPrefab;
 
@@ -53,6 +56,8 @@ public class PlayerCollisions : MonoBehaviour
         yield return new WaitForSeconds(1.3f);
         Destroy(gameObject);
         GameManager.instance.GameOver();
+        // Active game over menu
+        gameOverMenuObj.SetActive(true);
     }
 
     public void PlayTrail()

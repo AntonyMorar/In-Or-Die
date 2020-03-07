@@ -46,7 +46,7 @@ public class DragAndShoot : MonoBehaviour
             cameraVignette.ActiveVignette();
 
             // Decrease pitch in backgrund music
-            SoundManager.instance.ChangePitch("Background", 0.7f);
+            SoundManager.instance.ChangePitch("Background", 0.8f);
 
             //Mouse in wordl position 3d
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);

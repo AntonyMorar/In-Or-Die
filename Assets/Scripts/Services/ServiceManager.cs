@@ -11,7 +11,7 @@ namespace GameServices
 
         private List<IService> _serviceManagers = new List<IService>();
 
-        private void Start()
+        private void Awake()
         {
             MakeSingleton();
         }

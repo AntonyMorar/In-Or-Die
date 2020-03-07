@@ -6,6 +6,7 @@ public class LevelGenerator : MonoBehaviour
 {
     public GameObject bardPrefab;
     public GameObject ringPrefab;
+    public GameObject diamondPrefab;
     public Material[] redMaterials = new Material[2];
 
     // Bard variables
@@ -15,6 +16,8 @@ public class LevelGenerator : MonoBehaviour
     // Ring variables
     private float ringDistanceInit = 16f;
     private float ringDistance;
+
+    // Gem Variables
 
     private void Start()
     {
@@ -56,8 +59,13 @@ public class LevelGenerator : MonoBehaviour
         lastBardPosX += 3;
     }
 
-    public void AddNewRing()
+    private void AddNewRing()
     {
         Instantiate(ringPrefab, new Vector3(ringDistance + Random.Range(22f,27f), 0f,0f), Quaternion.Euler(0f, 90f, 0f));
+    }
+
+    private void AddNewDiamond()
+    {
+
     }
 }

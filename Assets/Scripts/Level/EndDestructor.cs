@@ -10,7 +10,7 @@ public class EndDestructor : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Bard"))
+        if (other.CompareTag("Bard") || other.CompareTag("Collectable"))
         {
             Destroy(other.gameObject);
             bardCounter++;

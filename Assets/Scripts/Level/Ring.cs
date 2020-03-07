@@ -16,8 +16,6 @@ public class Ring : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player") && !playerStep)
         {
-            playerStep = true;
-
             GameManager.instance.addScore(scoreGived);
             TimeManager.instance.AddSlowTime(secondsGived);
 
@@ -27,7 +25,9 @@ public class Ring : MonoBehaviour
             // Play ring sound
             SoundManager.instance.PlaySound("RingPass");
 
-            LeanTween.scale(gameObject, Vector3.zero, 0.25f).setDelay(0.2f).setOnComplete(DestroyMe);
+            LeanTween.scale(gameObject, Vector3.zero, 0.25f).setEase(LeanTweenType.easeInCirc).setOnComplete(DestroyMe);
+
+            playerStep = true;
         }
     }
 

@@ -36,13 +36,23 @@ public class GameManager : MonoBehaviour
     [SerializeField] private int totalGems;
     public bool isPlayerDead;
 
+    [Header("Game")]
     public bool isGamePlaying;
 
     [Header("Debug Settings")]
     [SerializeField] private bool debug;
 
-    private GameObject player;
+    private void Start()
+    {
+        StartCoroutine(PlayBackgrounsSong());
+    }
 
+    private IEnumerator PlayBackgrounsSong()
+    {
+        yield return new WaitForSeconds(0.5f);
+        // Play the game background sound
+        SoundManager.instance.PlaySound("Background");
+    }
 
     public void GamePlay()
     {
@@ -53,16 +63,17 @@ public class GameManager : MonoBehaviour
     public void GameOver()
     {
         isGamePlaying = false;
-        UIManager.instance.GoToMenu(1);
+    }
+
+    public void StartGame()
+    {
+        SceneManager.LoadScene("Game");
     }
 
     public void RestartGame()
     {
-        UIManager.instance.GoToMenu(2);
         RestartGameValues();
-        SceneManager.LoadScene("Game");
-        // Play the game background sound
-        SoundManager.instance.PlaySound("Background");
+        StartGame();
     }
 
     private void RestartGameValues()

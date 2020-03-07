@@ -73,13 +73,13 @@
     <Compile Include="Assets\LeanTween\Framework\LeanTweenExt.cs" />
     <Compile Include="Assets\Scripts\Camera\CameraController.cs" />
     <Compile Include="Assets\Scripts\Camera\CameraVignette.cs" />
+    <Compile Include="Assets\Scripts\Collectables\Diamond.cs" />
     <Compile Include="Assets\Scripts\Level\EndDestructor.cs" />
     <Compile Include="Assets\Scripts\Level\LevelGenerator.cs" />
     <Compile Include="Assets\Scripts\Level\Ring.cs" />
     <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
     <Compile Include="Assets\Scripts\Managers\SoundManager.cs" />
     <Compile Include="Assets\Scripts\Managers\TimeManager.cs" />
-    <Compile Include="Assets\Scripts\Managers\UIManager.cs" />
     <Compile Include="Assets\Scripts\Player\DragAndShoot.cs" />
     <Compile Include="Assets\Scripts\Player\DragLine.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerCollisions.cs" />
@@ -87,7 +87,10 @@
     <Compile Include="Assets\Scripts\Services\IService.cs" />
     <Compile Include="Assets\Scripts\Services\RewardedAdsButton.cs" />
     <Compile Include="Assets\Scripts\Services\ServiceManager.cs" />
-    <Compile Include="Assets\Scripts\UI\Score.cs" />
+    <Compile Include="Assets\Scripts\UI\BarTime.cs" />
+    <Compile Include="Assets\Scripts\UI\GameOverMenu.cs" />
+    <Compile Include="Assets\Scripts\UI\LevelLoader.cs" />
+    <Compile Include="Assets\Scripts\UI\PlayerScore.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\LeanTween\ReadMe.txt" />
