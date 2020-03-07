@@ -1,18 +1,19 @@
 ﻿<Properties StartupConfiguration="{81C775DE-E53A-5869-7312-A15151BEBD85}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Collectables/Diamond.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Level/LevelGenerator.cs">
     <Files>
       <File FileName="Assets/Scripts/Managers/SoundManager.cs" Line="23" Column="1" />
-      <File FileName="Assets/Scripts/Managers/GameManager.cs" Line="35" Column="36" />
+      <File FileName="Assets/Scripts/Managers/GameManager.cs" />
       <File FileName="Assets/Scripts/Player/PlayerCollisions.cs" />
-      <File FileName="Assets/Scripts/UI/GameOverMenu.cs" Line="9" Column="44" />
+      <File FileName="Assets/Scripts/UI/GameOverMenu.cs" />
       <File FileName="Assets/Scripts/Collectables/Diamond.cs" Line="34" Column="45" />
-      <File FileName="Assets/Scripts/Level/Ring.cs" Line="13" Column="5" />
-      <File FileName="Assets/Scripts/Level/EndDestructor.cs" Line="13" Column="70" />
+      <File FileName="Assets/Scripts/Level/Ring.cs" />
+      <File FileName="Assets/Scripts/Level/EndDestructor.cs" />
+      <File FileName="Assets/Scripts/Level/LevelGenerator.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f977deac-7fa4-48f0-964a-e3f277bd8700" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ef7980f7-10e2-4913-9e16-238594e72e25" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -23,21 +23,16 @@ public class Diamond : MonoBehaviour
         // Add score to game manager score
         AddDiamondsScore(1);
         //Instantiate particles
-        StartCoroutine(AddDiamondParticles());
-        // Diamond Animation
-        LeanTween.scale(gameObject, new Vector3(0f, 0f, 0f), 0.4f).setEase(LeanTweenType.easeOutBounce).setOnComplete(DestroyDiamond);
-    }
-
-    private IEnumerator AddDiamondParticles()
-    {
         GameObject particlesClone = Instantiate(diamondParticlesPrefab, transform.position, Quaternion.identity);
-        yield return new WaitForSeconds(1.5f);
-        Debug.Log("adasdadas");
-        Destroy(particlesClone);
+        particlesClone.transform.SetParent(transform);
+        // Diamond Animation
+        LeanTween.scale(gameObject, new Vector3(0f, 0f, 0f), 0.4f).setEase(LeanTweenType.easeOutBounce);
+        StartCoroutine(DestroyDiamond());
     }
 
-    private void DestroyDiamond()
+    private IEnumerator DestroyDiamond()
     {
+        yield return new WaitForSeconds(1.4f);
         Destroy(gameObject);
     }
 

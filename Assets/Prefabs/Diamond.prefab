@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 4015430906694046711}
   - component: {fileID: 6675625715185306341}
   - component: {fileID: 6675625715185306340}
+  - component: {fileID: 5595415378716963691}
   m_Layer: 0
   m_Name: Diamond
   m_TagString: Collectable
@@ -109,3 +110,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   diamondParticlesPrefab: {fileID: 4009478546403772472, guid: 4cb96d34d3dc04be0bf017b53bb39626,
     type: 3}
+--- !u!95 &5595415378716963691
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3424278530124261163}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: fc9cfc6497831455baa23949433ffacd, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
