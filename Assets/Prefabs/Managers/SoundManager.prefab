@@ -55,7 +55,12 @@ MonoBehaviour:
     pitch: 1
     loop: 0
   - name: RingPass
-    clip: {fileID: 8300000, guid: aaf1fa0b413894e6d910113d99de1395, type: 3}
+    clip: {fileID: 8300000, guid: 9029a4b3a263045e4bc2d3cdfea37819, type: 3}
     volume: 0.2
+    pitch: 1
+    loop: 0
+  - name: Diamond
+    clip: {fileID: 8300000, guid: aaf1fa0b413894e6d910113d99de1395, type: 3}
+    volume: 0.15
     pitch: 1
     loop: 0

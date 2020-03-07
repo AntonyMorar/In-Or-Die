@@ -232,6 +232,36 @@ PrefabInstance:
       propertyPath: m_Name
       value: SoundManager
       objectReference: {fileID: 0}
+    - target: {fileID: 1587697824654594513, guid: 49853e177606d4e59ac25d8188017596,
+        type: 3}
+      propertyPath: sounds.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1587697824654594513, guid: 49853e177606d4e59ac25d8188017596,
+        type: 3}
+      propertyPath: sounds.Array.data[3].name
+      value: Diamond
+      objectReference: {fileID: 0}
+    - target: {fileID: 1587697824654594513, guid: 49853e177606d4e59ac25d8188017596,
+        type: 3}
+      propertyPath: sounds.Array.data[3].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: aaf1fa0b413894e6d910113d99de1395, type: 3}
+    - target: {fileID: 1587697824654594513, guid: 49853e177606d4e59ac25d8188017596,
+        type: 3}
+      propertyPath: sounds.Array.data[3].volume
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 1587697824654594513, guid: 49853e177606d4e59ac25d8188017596,
+        type: 3}
+      propertyPath: sounds.Array.data[3].pitch
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1587697824654594513, guid: 49853e177606d4e59ac25d8188017596,
+        type: 3}
+      propertyPath: sounds.Array.data[2].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: 9029a4b3a263045e4bc2d3cdfea37819, type: 3}
     - target: {fileID: 1587697824654594518, guid: 49853e177606d4e59ac25d8188017596,
         type: 3}
       propertyPath: m_LocalPosition.x

@@ -64,6 +64,16 @@ public class GameManager : MonoBehaviour
     public void GameOver()
     {
         isGamePlaying = false;
+        SetHighScore();
+    }
+
+    private void SetHighScore()
+    {
+        if (score > highScore)
+        {
+            highScore = score;
+            PlayGamesController.AddScoreToLeaderBoard(GPGSIds.leaderboard_high_scores, highScore);
+        }
     }
 
     public void StartGame()

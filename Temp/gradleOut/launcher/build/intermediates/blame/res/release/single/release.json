@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-mdpi_app_icon.png.flat",
+        "source": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/res/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/color_common_google_signin_btn_tint.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-nodpi-v4_ic_launcher.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/f39a3aa4f36426aa794422cedb9c44c6/res/drawable-nodpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_notification_bg.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/res/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout-v21_notification_action.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/res/mipmap-anydpi-v26/app_icon_round.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-watch-v20_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/4ea24a54706ef504771d516f4dbff3f5/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-watch-v20_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/4ea24a54706ef504771d516f4dbff3f5/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-watch-v20_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/4ea24a54706ef504771d516f4dbff3f5/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/res/merged/release/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

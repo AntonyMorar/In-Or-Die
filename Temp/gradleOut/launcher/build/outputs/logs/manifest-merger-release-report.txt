@@ -1,0 +1,390 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:3:1-67:12
+MERGED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:2:1-37:12
+MERGED from [:UnityAdsAndroidPlugin:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/ea9522be9084a0115a2983d200283e42/AndroidManifest.xml:2:1-11:12
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/82e8f0193b460946a1cf82bd238d27e7/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/a7d6aa10507d610c09945db5f106a464/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/c5712e198b8e979f2122c3ef69d09c0b/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.core.core-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/62678c9b0f5c3ca3416e4313bc3a3dfd/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.customview.customview-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/dba0a32247f72c88704f0240448eb8ef/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/c7719c5f248e5c442319d92876404280/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/a902a8768a56b4facd3891025ec21fc6/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.fragment.fragment-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/524b82556ff22732a612437f3456eb3f/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/9ea0972439b1254960997e79a3fa170c/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/0f0fa00b650dc73e2dad5c1ca1b74e2a/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/6522e1503fa3c347031efbdaa2db42de/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/86917ddfda6f5790fab482c4a09b2964/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/63ce6401221c08fd82a185293525738d/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/acd99f49f3dc9553638c0c8432a02b70/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/74d264f7bb5e09800c90709b50c54cd9/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/d55fe20d90119cce116930c00bb82295/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5380845437535caa1b3d2a4de7c58f45/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.print.print-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/62c0cb93c197be01e8271c32a2e88c7b/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/6768abd4617c487c04ec0cb43273d883/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/b22c4045c280aa4be386683c84f5bec7/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c54ef3c4962718ee285e8b12a0f6143/AndroidManifest.xml:17:1-25:12
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/e882fd689cec4ede60df24d6401756d1/AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-auth-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/4ea24a54706ef504771d516f4dbff3f5/AndroidManifest.xml:17:1-39:12
+MERGED from [:com.google.android.gms.play-services-auth-api-phone-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/9b4f04ac43973e5568f66e3a7668556f/AndroidManifest.xml:2:1-7:12
+MERGED from [:com.google.android.gms.play-services-auth-base-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/f3da8762004881b534bbddc502a7fd0f/AndroidManifest.xml:2:1-7:12
+MERGED from [:com.google.android.gms.play-services-base-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/AndroidManifest.xml:17:1-29:12
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/d96f09cea7e308f38b3c9c25078b8055/AndroidManifest.xml:17:1-28:12
+MERGED from [:com.google.android.gms.play-services-drive-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/c6f201d9350bb7517fcfea821b0b57a0/AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.gms.play-services-games-19.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5ad736c09ac075045a9e3f62e9816802/AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.gms.play-services-nearby-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/1f58df2d656782196094d091ba746b67/AndroidManifest.xml:2:1-11:12
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/d9b0cc3c74c9f214347ecace065e6ca0/AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.games.gpgs-plugin-support-0.10.07:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/f39a3aa4f36426aa794422cedb9c44c6/AndroidManifest.xml:2:1-11:12
+MERGED from [:unityLibrary:GooglePlayGamesManifest.plugin] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/GooglePlayGamesManifest.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:6:1-32:12
+INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:70-99
+		INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:100-146
+	android:versionCode
+		INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:147-187
+supports-screens
+ADDED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:135-160
+application
+ADDED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:5-65:19
+MERGED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:5-65:19
+MERGED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:14:5-35:19
+MERGED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:14:5-35:19
+MERGED from [:androidx.core.core-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/AndroidManifest.xml:22:5-89
+MERGED from [:androidx.core.core-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/AndroidManifest.xml:22:5-89
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c54ef3c4962718ee285e8b12a0f6143/AndroidManifest.xml:22:5-23:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c54ef3c4962718ee285e8b12a0f6143/AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-auth-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/4ea24a54706ef504771d516f4dbff3f5/AndroidManifest.xml:22:5-37:19
+MERGED from [:com.google.android.gms.play-services-auth-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/4ea24a54706ef504771d516f4dbff3f5/AndroidManifest.xml:22:5-37:19
+MERGED from [:com.google.android.gms.play-services-base-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-base-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/d96f09cea7e308f38b3c9c25078b8055/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/d96f09cea7e308f38b3c9c25078b8055/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-drive-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/c6f201d9350bb7517fcfea821b0b57a0/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-drive-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/c6f201d9350bb7517fcfea821b0b57a0/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-games-19.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5ad736c09ac075045a9e3f62e9816802/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-games-19.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5ad736c09ac075045a9e3f62e9816802/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-nearby-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/1f58df2d656782196094d091ba746b67/AndroidManifest.xml:9:5-20
+MERGED from [:com.google.android.gms.play-services-nearby-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/1f58df2d656782196094d091ba746b67/AndroidManifest.xml:9:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/d9b0cc3c74c9f214347ecace065e6ca0/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/d9b0cc3c74c9f214347ecace065e6ca0/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.games.gpgs-plugin-support-0.10.07:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/f39a3aa4f36426aa794422cedb9c44c6/AndroidManifest.xml:9:5-20
+MERGED from [:com.google.games.gpgs-plugin-support-0.10.07:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/f39a3aa4f36426aa794422cedb9c44c6/AndroidManifest.xml:9:5-20
+MERGED from [:unityLibrary:GooglePlayGamesManifest.plugin] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/GooglePlayGamesManifest.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-30:19
+MERGED from [:unityLibrary:GooglePlayGamesManifest.plugin] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/GooglePlayGamesManifest.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-30:19
+	android:appComponentFactory
+		ADDED from [:androidx.core.core-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:16-48
+	android:icon
+		ADDED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:49-80
+uses-sdk
+INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-11:41
+MERGED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityAdsAndroidPlugin:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/ea9522be9084a0115a2983d200283e42/AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityAdsAndroidPlugin:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/ea9522be9084a0115a2983d200283e42/AndroidManifest.xml:7:5-9:41
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/82e8f0193b460946a1cf82bd238d27e7/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/82e8f0193b460946a1cf82bd238d27e7/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/a7d6aa10507d610c09945db5f106a464/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/a7d6aa10507d610c09945db5f106a464/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/c5712e198b8e979f2122c3ef69d09c0b/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/c5712e198b8e979f2122c3ef69d09c0b/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/1c594eb31895b34a9fa972ec27e40065/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/62678c9b0f5c3ca3416e4313bc3a3dfd/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/62678c9b0f5c3ca3416e4313bc3a3dfd/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/dba0a32247f72c88704f0240448eb8ef/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/dba0a32247f72c88704f0240448eb8ef/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/c7719c5f248e5c442319d92876404280/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/c7719c5f248e5c442319d92876404280/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/a902a8768a56b4facd3891025ec21fc6/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/a902a8768a56b4facd3891025ec21fc6/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/524b82556ff22732a612437f3456eb3f/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/524b82556ff22732a612437f3456eb3f/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/9ea0972439b1254960997e79a3fa170c/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/9ea0972439b1254960997e79a3fa170c/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/0f0fa00b650dc73e2dad5c1ca1b74e2a/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/0f0fa00b650dc73e2dad5c1ca1b74e2a/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/6522e1503fa3c347031efbdaa2db42de/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/6522e1503fa3c347031efbdaa2db42de/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/86917ddfda6f5790fab482c4a09b2964/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/86917ddfda6f5790fab482c4a09b2964/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/63ce6401221c08fd82a185293525738d/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/63ce6401221c08fd82a185293525738d/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/acd99f49f3dc9553638c0c8432a02b70/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/acd99f49f3dc9553638c0c8432a02b70/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/74d264f7bb5e09800c90709b50c54cd9/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/74d264f7bb5e09800c90709b50c54cd9/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/d55fe20d90119cce116930c00bb82295/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/d55fe20d90119cce116930c00bb82295/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5380845437535caa1b3d2a4de7c58f45/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5380845437535caa1b3d2a4de7c58f45/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/62c0cb93c197be01e8271c32a2e88c7b/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/62c0cb93c197be01e8271c32a2e88c7b/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/6768abd4617c487c04ec0cb43273d883/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/6768abd4617c487c04ec0cb43273d883/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/b22c4045c280aa4be386683c84f5bec7/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/b22c4045c280aa4be386683c84f5bec7/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c54ef3c4962718ee285e8b12a0f6143/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c54ef3c4962718ee285e8b12a0f6143/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/e882fd689cec4ede60df24d6401756d1/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/e882fd689cec4ede60df24d6401756d1/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-auth-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/4ea24a54706ef504771d516f4dbff3f5/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-auth-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/4ea24a54706ef504771d516f4dbff3f5/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-auth-api-phone-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/9b4f04ac43973e5568f66e3a7668556f/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-auth-api-phone-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/9b4f04ac43973e5568f66e3a7668556f/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-auth-base-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/f3da8762004881b534bbddc502a7fd0f/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-auth-base-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/f3da8762004881b534bbddc502a7fd0f/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-base-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-base-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/d96f09cea7e308f38b3c9c25078b8055/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/d96f09cea7e308f38b3c9c25078b8055/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-drive-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/c6f201d9350bb7517fcfea821b0b57a0/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-drive-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/c6f201d9350bb7517fcfea821b0b57a0/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-games-19.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5ad736c09ac075045a9e3f62e9816802/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-games-19.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5ad736c09ac075045a9e3f62e9816802/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-nearby-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/1f58df2d656782196094d091ba746b67/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-nearby-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/1f58df2d656782196094d091ba746b67/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/d9b0cc3c74c9f214347ecace065e6ca0/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/d9b0cc3c74c9f214347ecace065e6ca0/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.games.gpgs-plugin-support-0.10.07:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/f39a3aa4f36426aa794422cedb9c44c6/AndroidManifest.xml:7:5-44
+MERGED from [:com.google.games.gpgs-plugin-support-0.10.07:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/f39a3aa4f36426aa794422cedb9c44c6/AndroidManifest.xml:7:5-44
+MERGED from [:unityLibrary:GooglePlayGamesManifest.plugin] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/GooglePlayGamesManifest.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-13:41
+MERGED from [:unityLibrary:GooglePlayGamesManifest.plugin] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/GooglePlayGamesManifest.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-13:41
+INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:13:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:15:9-55
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:5-67
+MERGED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:12:5-67
+MERGED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:19:5-79
+MERGED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:11:5-79
+MERGED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:11:5-79
+MERGED from [:com.google.android.gms.play-services-nearby-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/1f58df2d656782196094d091ba746b67/AndroidManifest.xml:7:5-79
+MERGED from [:com.google.android.gms.play-services-nearby-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/1f58df2d656782196094d091ba746b67/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:19:22-76
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:22:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:9-51:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-56
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:36:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:34:13-194
+	android:theme
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-54
+	android:name
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:45:13-47:40
+	android:value
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:48:13-50:40
+	android:value
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:49:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:53:9-55:33
+	android:value
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:54:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:56:9-58:36
+	android:value
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:58:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:57:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:9-61:50
+	android:value
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:61:13-47
+	android:name
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:9-64:68
+	android:value
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:64:13-65
+	android:name
+		ADDED from [:unityLibrary] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:13-42
+activity#com.unity3d.services.ads.adunit.AdUnitActivity
+ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:15:9-19:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:18:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:17:13-170
+	android:theme
+		ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:19:13-71
+	android:name
+		ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:16:13-74
+activity#com.unity3d.services.ads.adunit.AdUnitTransparentActivity
+ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:20:9-24:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:23:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:22:13-170
+	android:theme
+		ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:24:13-83
+	android:name
+		ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:21:13-85
+activity#com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity
+ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:25:9-29:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:28:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:27:13-170
+	android:theme
+		ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:29:13-83
+	android:name
+		ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:26:13-93
+activity#com.unity3d.services.ads.adunit.AdUnitSoftwareActivity
+ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:30:9-34:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:33:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:32:13-170
+	android:theme
+		ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:34:13-71
+	android:name
+		ADDED from [:UnityAds:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/5c3011344c1fd39631e6e05f04b9de98/AndroidManifest.xml:31:13-82
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [:com.google.android.gms.play-services-auth-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/4ea24a54706ef504771d516f4dbff3f5/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [:com.google.android.gms.play-services-auth-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/4ea24a54706ef504771d516f4dbff3f5/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-auth-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/4ea24a54706ef504771d516f4dbff3f5/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-auth-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/4ea24a54706ef504771d516f4dbff3f5/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [:com.google.android.gms.play-services-auth-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/4ea24a54706ef504771d516f4dbff3f5/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [:com.google.android.gms.play-services-auth-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/4ea24a54706ef504771d516f4dbff3f5/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-auth-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/4ea24a54706ef504771d516f4dbff3f5/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [:com.google.android.gms.play-services-auth-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/4ea24a54706ef504771d516f4dbff3f5/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [:com.google.android.gms.play-services-auth-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/4ea24a54706ef504771d516f4dbff3f5/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [:com.google.android.gms.play-services-base-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-base-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-base-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [:com.google.android.gms.play-services-base-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/95bda2c212c076afb7a3fb18dd7b08dd/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/d96f09cea7e308f38b3c9c25078b8055/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/d96f09cea7e308f38b3c9c25078b8055/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] /Users/antony999k/.gradle/caches/transforms-2/files-2.1/d96f09cea7e308f38b3c9c25078b8055/AndroidManifest.xml:24:13-58
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from [:unityLibrary:GooglePlayGamesManifest.plugin] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/GooglePlayGamesManifest.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:18:9-20:48
+	android:value
+		ADDED from [:unityLibrary:GooglePlayGamesManifest.plugin] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/GooglePlayGamesManifest.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from [:unityLibrary:GooglePlayGamesManifest.plugin] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/GooglePlayGamesManifest.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:19:13-63
+meta-data#com.google.android.gms.games.unityVersion
+ADDED from [:unityLibrary:GooglePlayGamesManifest.plugin] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/GooglePlayGamesManifest.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:23:9-25:44
+	android:value
+		ADDED from [:unityLibrary:GooglePlayGamesManifest.plugin] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/GooglePlayGamesManifest.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:25:13-41
+	android:name
+		ADDED from [:unityLibrary:GooglePlayGamesManifest.plugin] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/GooglePlayGamesManifest.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:24:13-69
+activity#com.google.games.bridge.NativeBridgeActivity
+ADDED from [:unityLibrary:GooglePlayGamesManifest.plugin] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/GooglePlayGamesManifest.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:27:9-29:86
+	android:theme
+		ADDED from [:unityLibrary:GooglePlayGamesManifest.plugin] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/GooglePlayGamesManifest.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:29:13-83
+	android:name
+		ADDED from [:unityLibrary:GooglePlayGamesManifest.plugin] /Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/unityLibrary/GooglePlayGamesManifest.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:28:13-72

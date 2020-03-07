@@ -1,0 +1,4 @@
+#Sat Mar 07 12:16:43 CST 2020
+base.0=/Users/antony999k/Documents/ProyectosVideojuegos/In or Die/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
