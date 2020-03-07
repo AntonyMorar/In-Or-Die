@@ -5,7 +5,6 @@
       <File FileName="Assets/Scripts/Managers/GameManager.cs" />
       <File FileName="Assets/Scripts/Player/PlayerCollisions.cs" />
       <File FileName="Assets/Scripts/UI/GameOverMenu.cs" />
-      <File FileName="Assets/Scripts/Collectables/Diamond.cs" Line="34" Column="45" />
       <File FileName="Assets/Scripts/Level/Ring.cs" />
       <File FileName="Assets/Scripts/Level/EndDestructor.cs" />
       <File FileName="Assets/Scripts/Level/LevelGenerator.cs" Line="1" Column="1" />

@@ -34,6 +34,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private int highScore;
     [SerializeField] private int gems = 0;
     [SerializeField] private int totalGems;
+    public int gameLevel { get; private set; }
     public bool isPlayerDead;
 
     [Header("Game")]
@@ -94,5 +95,13 @@ public class GameManager : MonoBehaviour
     public void addGems(int _gems)
     {
         gems = _gems;
+    }
+
+    public void AddGameLevel()
+    {
+        if (gameLevel < 3)
+        {
+            gameLevel++;
+        }
     }
 }
