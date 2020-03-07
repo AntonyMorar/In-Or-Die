@@ -5,6 +5,7 @@ using UnityEngine;
 public class EndDestructor : MonoBehaviour
 {
     public LevelGenerator levelGenerator;
+    public CameraController cameraController;
 
     private int totalBardCounter = 0;
     private int bardCounter = 0;
@@ -33,16 +34,21 @@ public class EndDestructor : MonoBehaviour
 
     private void Update()
     {
-        if(totalBardCounter >= 10 && GameManager.instance.gameLevel == 0)
+        if(totalBardCounter >= 120 && GameManager.instance.gameLevel == 0)
         {
             GameManager.instance.AddGameLevel();
-        }else if (totalBardCounter >= 25 && GameManager.instance.gameLevel == 1)
-        {
-            GameManager.instance.AddGameLevel();
+            cameraController.ChangeCameraSpeed(5.7f);
+
         }
-        else if (totalBardCounter >= 45 && GameManager.instance.gameLevel == 2)
+        else if (totalBardCounter >= 300 && GameManager.instance.gameLevel == 1)
         {
             GameManager.instance.AddGameLevel();
+            cameraController.ChangeCameraSpeed(6.7f);
+        }
+        else if (totalBardCounter >= 600 && GameManager.instance.gameLevel == 2)
+        {
+            GameManager.instance.AddGameLevel();
+            cameraController.ChangeCameraSpeed(8.5f);
         }
     }
 }

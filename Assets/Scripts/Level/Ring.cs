@@ -7,8 +7,8 @@ public class Ring : MonoBehaviour
     [Header("Dependencies")]
     [SerializeField] private GameObject explotionPrefab;
 
-    [SerializeField] private float secondsGived = 1f;
-    [SerializeField] private int scoreGived = 1;
+    [SerializeField] private float secondsGived;
+    [SerializeField] private int scoreGived;
 
     private bool playerStep;
 

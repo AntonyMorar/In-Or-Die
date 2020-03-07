@@ -1247,6 +1247,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   levelGenerator: {fileID: 1347364784}
+  cameraController: {fileID: 963194229}
 --- !u!54 &303500045
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2679,7 +2680,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1edbe8a9a66d47e89c5ecee59f2ff03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
+  moveSpeed: 0
 --- !u!114 &963194230
 MonoBehaviour:
   m_ObjectHideFlags: 0

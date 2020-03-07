@@ -81,6 +81,7 @@ public class GameManager : MonoBehaviour
     {
         score = 0;
         gems = 0;
+        gameLevel = 0;
         TimeManager.instance.ResetPlayerTimeStatus();
         isPlayerDead = false;
     }
