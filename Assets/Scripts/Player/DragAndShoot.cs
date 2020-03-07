@@ -131,4 +131,41 @@ public class DragAndShoot : MonoBehaviour
             transform.rotation = Quaternion.LookRotation(force);
         }
     }
+
+    private Vector3 TrimLine()
+    {
+        Vector3 result = Vector3.zero;
+        float hMax = 4f;
+        Debug.Log("I:" + startPoint);
+        Debug.Log("E:" + endPoint);
+
+        float x = Mathf.Abs(endPoint.x - startPoint.x);
+        float y = Mathf.Abs(endPoint.y - startPoint.y);
+        float h = Mathf.Sqrt(Mathf.Pow(x, 2) + Mathf.Pow(y, 2));
+
+        float startAngle = 1 / Mathf.Sin(x / h);
+
+        float minX = Mathf.Sin(startAngle) * hMax;
+        float minY = Mathf.Cos(startAngle) * hMax;
+
+        if (endPoint.x - startPoint.x >= 0)
+        {
+            result.x = startPoint.x + minX;
+        }
+        else
+        {
+            result.x = startPoint.x - minX;
+        }
+
+        if (endPoint.y - startPoint.y >= 0)
+        {
+            result.y = startPoint.y + minY;
+        }
+        else
+        {
+            result.y = startPoint.y - minY;
+        }
+        result.z = -1f;
+        return result;
+    }
 }
